@@ -1,0 +1,11 @@
+{
+  "name": "aurora-quant-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.3.1"
+  }
+}
